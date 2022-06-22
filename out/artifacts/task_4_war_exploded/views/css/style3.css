@@ -1,0 +1,128 @@
+
+body{
+    background-color: #0b345a;
+}
+
+.navbar-brand
+{
+    color: red;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 10PX;
+}
+.navbar-brand a {
+    color: red;
+}
+#nav_lan{
+    color: white;
+}
+
+.navbar
+{
+    padding: 1em 0 !important;
+}
+.navbar-toggler
+{
+    border: none !important;
+    outline: none !important;
+}
+.banner
+{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.home-header
+{
+    color: red;
+    background-position: center;
+    background-size: cover;
+}
+.container-fluid{
+    background-color: white;
+    height: 150px;
+}
+h1{
+    color: #0b345a;
+    font-weight: 300;
+    font-style: italic;
+    float: left;
+    padding-top: 20px;
+    /* float: left; */
+    margin-left: 20px;
+}
+h5{
+    color: #333333;
+
+}
+.d-flex{
+    padding-top: 80px;
+}
+
+
+
+.card-data {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-top: 50px;
+}
+
+.card{
+
+    width: 50%;
+
+}
+.card-img-top{
+    height: 400px;
+}
+
+.publication{
+    color: #1ca9ff;
+
+}
+.post-date{
+    font-size: 15px;
+    color:gray;
+}
+.navbar-brand{
+    color: white;
+}
+.navbarNav{
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+
+
+.navbar-light .navbar-nav .nav-link a {color: white}
+.btn-secondary {
+    color: white;
+    background-color: #0b345a;
+    border-color: white;
+}
+#nav_publ{
+    background-color:#0b345a ;color: white;font-weight: 700;margin-bottom: 20px;border: 1px solid white;
+}
+.nav justify-content-center{}
+.btn {
+    color: white;
+}
+.row{
+    margin-left: 2px;
+    margin-right: 2px;
+    background-color: white;
+    color: #333333;
+    border: 1px solid white;
+}
+.row h5{
+    color: #333333;
+}
+#btn_read_more{
+    color: #1ca9ff;
+}
+
+
+

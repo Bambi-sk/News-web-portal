@@ -1,0 +1,101 @@
+
+
+.navbar-brand
+{
+    color: red;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 10PX;
+}
+.navbar-brand a {
+    color: red;
+}
+.navbar
+{
+    padding: 1em 0 !important;
+}
+.navbar-toggler
+{
+    border: none !important;
+    outline: none !important;
+}
+.banner
+{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.home-header
+{
+    color: red;
+    background-position: center;
+    background-size: cover;
+}
+.container-fluid{
+    background-color: white;
+    height: 150px;
+}
+h1{
+    color: #333333;
+    font-weight: 300;
+    font-style: italic;
+    float: left;
+    padding-top: 20px;
+    /* float: left; */
+    margin-left: 20px;
+}
+h5{
+    color: #333333;
+
+}
+.d-flex{
+    padding-top: 80px;
+}
+
+
+
+.card-data {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-top: 50px;
+}
+
+.card{
+
+    width: 50%;
+
+}
+.card-img-top{
+    height: 400px;
+}
+
+.publication{
+    color: #17a2b8;
+
+}
+.post-date{
+    font-size: 15px;
+    color:gray;
+}
+#nav_publ{
+    background-color: white;color: #495057;font-weight: 700;margin-bottom: 20px;
+}
+.nav justify-content-center{}
+.btn {
+    color: #1ca9ff;
+}
+.row{
+    margin-left: 2px;
+    margin-right: 2px;
+    background-color: white;
+    color: #333333;
+    border: 1px solid red;
+}
+.row h5{
+    color: #333333;
+}
+
+
+

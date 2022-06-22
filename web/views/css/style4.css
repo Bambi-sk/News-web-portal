@@ -1,0 +1,140 @@
+
+body{
+    background-color: black;
+}
+
+.navbar-brand
+{
+    color:white;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 10PX;
+}
+.navbar-brand a {
+    color: white;
+}
+#nav_lan{
+    color: white;
+}
+
+.navbar
+{
+    padding: 1em 0 !important;
+}
+.navbar-toggler
+{
+    border: none !important;
+    outline: none !important;
+}
+.banner
+{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.home-header
+{
+    color: red;
+    background-position: center;
+    background-size: cover;
+}
+.card-text{color: white}
+img{
+    opacity:0.8;
+    -moz-opacity:0.8;filter: alpha(opacity=) black;
+    -khtml-opacity: 0.8;
+    background-color:black;
+}
+.container-fluid{
+    background-color: white;
+    height: 150px;
+}
+h1{
+    color: white;
+    font-weight: 300;
+    font-style: italic;
+    float: left;
+    padding-top: 20px;
+    /* float: left; */
+    margin-left: 20px;
+}
+h5{
+    color: white;
+
+}
+.d-flex{
+    padding-top: 80px;
+}
+
+
+
+.card-data {
+    background-color: black;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-top: 50px;
+}
+
+.card{
+
+    width: 50%;
+
+}
+.card-img-top{
+    background-color: black;
+    height: 400px;
+}
+
+.publication{
+    color: white;
+
+}
+.post-date{
+    font-size: 15px;
+    color:white;
+}
+.navbar-brand{
+    color: white;
+}
+.navbarNav{
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+.card-body{
+    background-color: black;
+}
+
+
+.navbar-light .navbar-nav .nav-link a {color: white}
+.btn-secondary {
+    color: white;
+    background-color: black;
+    border-color: black;
+}
+#nav_publ{
+    background-color:black ;color: white;font-weight: 700;margin-bottom: 20px;border: 1px solid white;
+}
+.nav justify-content-center{}
+.btn {
+    color: white;
+}
+.row{
+    margin-left: 2px;
+    margin-right: 2px;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+}
+.row h5{
+    color:white;
+}
+#btn_read_more{
+    color: white;
+}
+
+
+
